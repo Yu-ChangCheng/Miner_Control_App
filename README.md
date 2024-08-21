@@ -10,6 +10,9 @@ This repository contains the `MinerControlApp`, a Python application designed to
 - **Robust Error Handling:** Implements retry logic with exponential backoff and specific error handling, including unauthorized token handling and ignoring certain predefined errors.
 - **Logging:** Logs all significant operations and errors to a log file for easy debugging and monitoring.
 
+## Video Walk Through
+[Youtube Video](https://youtu.be/rvQJKnbbFNc)
+
 ## Requirements
 
 - Python 3.6+
